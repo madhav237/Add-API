@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 
-import static org.junit.Assert.assertEquals;
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -18,6 +18,7 @@ public class AddServiceTest extends TestCase {
     @Autowired
     private AddService addService;
 
+    //test method
     @Test
     public void testAdd() {
         Nums nums = new Nums();

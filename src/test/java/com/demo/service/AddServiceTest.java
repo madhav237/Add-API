@@ -32,5 +32,18 @@ public class AddServiceTest extends TestCase {
         assertEquals(expectedSum, actualSum);
     }
 
+    @Test
+    public void testAdd_Invalid() {
+        Nums nums = new Nums();
+        nums.setNum1(3.0);
+        nums.setNum2(10.0);
+
+        Double expectedSum = 20.0;
+
+        Double actualSum = addService.add(nums.getNum1(), nums.getNum2());
+
+        assertNotSame(expectedSum, actualSum);
+    }
+
 
 }

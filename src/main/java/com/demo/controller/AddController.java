@@ -6,10 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -29,6 +26,21 @@ public class AddController {
         Map<String, Double> data = new HashMap<>();
         data.put("num1", nums.getNum1());
         data.put("num2", nums.getNum2());
+        data.put("ans",num3);
+
+        return new ResponseEntity<Object>(data, HttpStatus.OK);
+
+
+    }
+
+    @PostMapping("/addTwoNumbers2")
+    public ResponseEntity<Object> addTwoNumbers2(@RequestParam("num1") Double num1, @RequestParam("num2") Double num2) {
+
+        Double num3= addService.add(num1, num2);
+
+        Map<String, Double> data = new HashMap<>();
+        data.put("num1", num1);
+        data.put("num2", num2);
         data.put("ans",num3);
 
         return new ResponseEntity<Object>(data, HttpStatus.OK);

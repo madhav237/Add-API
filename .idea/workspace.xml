@@ -4,19 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fd18e26-a9dd-4e42-837b-89fd54a4b0f1" name="Changes" comment="" />
+    <list default="true" id="9fd18e26-a9dd-4e42-837b-89fd54a4b0f1" name="Changes" comment="Updated project with required files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Order-Api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Order-Api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Order-Api-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/Order-Api-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.demo.service.AddServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.demo.service.AddServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.demo.service.AddServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.demo.service.AddServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/service/AddServiceTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\madhav\IdeaProjects\Add-API\htmlReport" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit3 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,27 +45,42 @@
     </option>
   </component>
   <component name="ProjectId" id="2R8XLpT0N9f0rcT8IN9NZ2U0DOy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/madhav/IdeaProjects/Add-API&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\madhav\IdeaProjects\Add-API\src\test\java2" />
+      <recent name="C:\Users\madhav\IdeaProjects\Add-API\src\test" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.demo.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddServiceTest.testAdd">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.Main" />
       <module name="Order-Api" />
@@ -59,6 +90,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Order-Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.service.AddServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,11 +125,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddServiceTest.testAdd_Invalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Order-Api" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="addServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.service.AddServiceTest" />
+      <option name="METHOD_NAME" value="testAdd_Invalid" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,10 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddServiceTest.testAdd" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AddServiceTest" />
+        <item itemvalue="JUnit.AddServiceTest.testAdd" />
+        <item itemvalue="JUnit.AddServiceTest.testAdd_Invalid" />
         <item itemvalue="JUnit.addServiceTest.testAddition" />
-        <item itemvalue="JUnit.addServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +183,92 @@
       <option name="presentableId" value="Default" />
       <updated>1686632631856</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Add-API">
+      <created>1686677459363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686677459363</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Add-API">
+      <created>1686677843892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686677843892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Add-API">
+      <created>1686678228781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686678228781</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added ivalid test case">
+      <created>1686761139378</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686761139378</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added new Post Mapping for Request Param case">
+      <created>1687634168973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687634168973</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added pom.xml">
+      <created>1687640286743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687640286743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added updated pom.xml">
+      <created>1687641352702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687641352702</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated project with required dependencies">
+      <created>1687710504776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687710504776</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated project with required files">
+      <created>1687710667508</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687710667508</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Add-API" />
+    <MESSAGE value="Added ivalid test case" />
+    <MESSAGE value="Added new Post Mapping for Request Param case" />
+    <MESSAGE value="Added pom.xml" />
+    <MESSAGE value="Added updated pom.xml" />
+    <MESSAGE value="Updated project with required dependencies" />
+    <MESSAGE value="Updated project with required files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated project with required files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -138,12 +277,19 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/demo/service/AddServiceTest.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Add_API$AddServiceTest.ic" NAME="AddServiceTest Coverage Results" MODIFIED="1687711572413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Add_API$Main.ic" NAME="Main Coverage Results" MODIFIED="1687711993869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.demo.*</FILTER>
+    </SUITE>
   </component>
 </project>

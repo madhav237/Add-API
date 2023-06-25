@@ -1,0 +1,200 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9fd18e26-a9dd-4e42-837b-89fd54a4b0f1\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"JUnit3 Test Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"importingSettings\">\r\n      <MavenImportingSettings>\r\n        <option name=\"workspaceImportEnabled\" value=\"true\" />\r\n      </MavenImportingSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2R8XLpT0N9f0rcT8IN9NZ2U0DOy\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\": \"JUnit3\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3\": \"junit.framework.TestCase\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateTestDialog.Recents.Supers\">\r\n      <recent name=\"junit.framework.TestCase\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.RecentsKey\">\r\n      <recent name=\"com.demo.service\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"JUnit.AddServiceTest.testAdd\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.demo.Main\" />\r\n      <module name=\"Order-Api\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.demo.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AddServiceTest.testAdd\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Order-Api\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.demo.service.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.demo.service\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.demo.service.AddServiceTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testAdd\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"addServiceTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Order-Api\" />\r\n      <option name=\"PACKAGE_NAME\" value=\"\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"addServiceTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"addServiceTest.testAddition\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Order-Api\" />\r\n      <option name=\"PACKAGE_NAME\" value=\"\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"addServiceTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testAddition\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"Add-API\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"Add-API\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.AddServiceTest.testAdd\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"JUnit.addServiceTest.testAddition\" />\r\n        <item itemvalue=\"JUnit.addServiceTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9fd18e26-a9dd-4e42-837b-89fd54a4b0f1\" name=\"Changes\" comment=\"\" />\r\n      <created>1686632631856</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1686632631856</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <breakpoint enabled=\"true\" type=\"java-exception\">\r\n          <properties class=\"java.lang.NullPointerException\" package=\"java.lang\" />\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/test/java/com/demo/service/AddServiceTest.java</url>\r\n          <line>28</line>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,11 +4,17 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9fd18e26-a9dd-4e42-837b-89fd54a4b0f1" name="Changes" comment="" />
++    <list default="true" id="9fd18e26-a9dd-4e42-837b-89fd54a4b0f1" name="Changes" comment="Added pom.xml">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/controller/AddController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/controller/AddController.class" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ExportToHTMLSettings">
++    <option name="OUTPUT_DIRECTORY" value="C:\Users\madhav\IdeaProjects\Add-API\htmlReport" />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -17,6 +23,9 @@
+         <option value="JUnit3 Test Class" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -29,6 +38,7 @@
+     </option>
+   </component>
+   <component name="ProjectId" id="2R8XLpT0N9f0rcT8IN9NZ2U0DOy" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -38,7 +48,12 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase"
++    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
++    "last_opened_file_path": "C:/Users/madhav/IdeaProjects/Add-API",
++    "project.structure.last.edited": "Project",
++    "project.structure.proportion": "0.0",
++    "project.structure.side.proportion": "0.2",
++    "settings.editor.selected.configurable": "terminal"
+   }
+ }]]></component>
+   <component name="RecentsManager">
+@@ -49,7 +64,12 @@
+       <recent name="com.demo.service" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="JUnit.AddServiceTest.testAdd">
++  <component name="RunAnythingCache">
++    <option name="myCommands">
++      <command value="mvn install" />
++    </option>
++  </component>
++  <component name="RunManager" selected="Application.Main">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.demo.Main" />
+       <module name="Order-Api" />
+@@ -74,6 +94,22 @@
+       <option name="PACKAGE_NAME" value="com.demo.service" />
+       <option name="MAIN_CLASS_NAME" value="com.demo.service.AddServiceTest" />
+       <option name="METHOD_NAME" value="testAdd" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="AddServiceTest.testAdd_Invalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="Order-Api" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.demo.service.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="com.demo.service" />
++      <option name="MAIN_CLASS_NAME" value="com.demo.service.AddServiceTest" />
++      <option name="METHOD_NAME" value="testAdd_Invalid" />
+       <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -113,8 +149,9 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="JUnit.AddServiceTest.testAdd" />
+         <item itemvalue="Application.Main" />
++        <item itemvalue="JUnit.AddServiceTest.testAdd_Invalid" />
++        <item itemvalue="JUnit.AddServiceTest.testAdd" />
+         <item itemvalue="JUnit.addServiceTest.testAddition" />
+         <item itemvalue="JUnit.addServiceTest" />
+       </list>
+@@ -129,7 +166,68 @@
+       <option name="presentableId" value="Default" />
+       <updated>1686632631856</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Added Add-API">
++      <created>1686677459363</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1686677459363</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Added Add-API">
++      <created>1686677843892</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1686677843892</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Added Add-API">
++      <created>1686678228781</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1686678228781</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Added ivalid test case">
++      <created>1686761139378</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1686761139378</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Added new Post Mapping for Request Param case">
++      <created>1687634168973</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1687634168973</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Added pom.xml">
++      <created>1687640286743</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1687640286743</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Added Add-API" />
++    <MESSAGE value="Added ivalid test case" />
++    <MESSAGE value="Added new Post Mapping for Request Param case" />
++    <MESSAGE value="Added pom.xml" />
++    <option name="LAST_COMMIT_MESSAGE" value="Added pom.xml" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -140,10 +238,19 @@
+         </breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/com/demo/service/AddServiceTest.java</url>
+-          <line>28</line>
++          <line>29</line>
+           <option name="timeStamp" value="4" />
+         </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+   </component>
++  <component name="XSLT-Support.FileAssociations.UIState">
++    <expand />
++    <select />
++  </component>
++  <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/Add_API$Main.ic" NAME="Main Coverage Results" MODIFIED="1687623212759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
++      <FILTER>com.demo.*</FILTER>
++    </SUITE>
++  </component>
+ </project>
+\ No newline at end of file

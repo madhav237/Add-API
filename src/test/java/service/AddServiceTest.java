@@ -27,7 +27,7 @@ public class AddServiceTest extends TestCase {
 
         Double expectedSum = 15.0;
 
-        Double actualSum = addService.add(nums.getNum1(), nums.getNum2());
+        Double actualSum = addService.add(5.0, 10.0);
 
         assertEquals(expectedSum, actualSum);
     }
@@ -40,7 +40,7 @@ public class AddServiceTest extends TestCase {
 
         Double expectedSum = 20.0;
 
-        Double actualSum = addService.add(nums.getNum1(), nums.getNum2());
+        Double actualSum = addService.add(3.0, 10.0);
 
         assertNotSame(expectedSum, actualSum);
     }
